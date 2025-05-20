@@ -56,10 +56,6 @@ Used PCA to project features into a **3D subspace** retaining most variance.
 - **PCA projections** revealed separable clusters in 2D/3D space.
 - **GMM clustering** achieved accurate classification of spike types.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Artificial_neuron_model.svg" alt="Spike Sorting Illustration" width="300"/>
-</p>
-
 ---
 
 ## 📚 References
